@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BunnyK786/textutils-React/static/css/main.2543b9d3.css",
+    "main.js": "/BunnyK786/textutils-React/static/js/main.c8e0ecf6.js",
+    "static/js/787.719ec76d.chunk.js": "/BunnyK786/textutils-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/BunnyK786/textutils-React/index.html",
+    "main.2543b9d3.css.map": "/BunnyK786/textutils-React/static/css/main.2543b9d3.css.map",
+    "main.c8e0ecf6.js.map": "/BunnyK786/textutils-React/static/js/main.c8e0ecf6.js.map",
+    "787.719ec76d.chunk.js.map": "/BunnyK786/textutils-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.c8e0ecf6.js"
+  ]
+}
